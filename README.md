@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham10-coder&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham10-coder&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham10-coderE&layout=compact)
 
