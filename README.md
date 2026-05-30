@@ -39,6 +39,8 @@
 ---
 
 ## 🚀 Featured Projects
+### 🔹 DevOps CI/CD Pipeline Automation
+End-to-end CI/CD pipeline using GitHub, Jenkins, Docker, Docker Compose and AWS EC2.
 
 ### 🔹 BackupPilot
 Cloud Backup Automation System using AWS S3, Python, APScheduler & Boto3.
