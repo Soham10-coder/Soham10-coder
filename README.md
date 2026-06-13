@@ -48,6 +48,10 @@ Cloud Backup Automation System using AWS S3, Python, APScheduler & Boto3.
 ### 🔹 Retrievix
 AI-powered Lost & Found Platform using CLIP AI for image and text matching.
 
+### 🔹 URL Shortener – Containerized Web Application
+Built a Dockerized URL Shortener using Node.js, Express.js, MongoDB, Docker Networking, and AWS EC2 with persistent storage using Docker Volumes.
+
+
 ---
 
 ## 🏆 Achievements
